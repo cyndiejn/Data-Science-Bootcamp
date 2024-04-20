@@ -12,9 +12,9 @@ You will complete questions 1-9 below in the PHPMyAdmin interface.
 Log in by pasting the following URL into your browser, and
 using the following Username and Password:
 
-URL: https://sql.springboard.com/
-Username: student
-Password: learn_sql@springboard
+URL: 
+Username:
+Password: 
 
 The data you need is in the "country_club" database. This database
 contains 3 tables:
